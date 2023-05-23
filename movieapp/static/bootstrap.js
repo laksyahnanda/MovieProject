@@ -1,0 +1,1 @@
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-DziyDQnY6N7TUETHvoSQZaX9KCv9zomjM2+6Twk5/NIcPDwU8/m6U6IwU/0nLTx" crossorigin="anonymous"></script>
